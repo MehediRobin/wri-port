@@ -5,6 +5,7 @@ import { LuGraduationCap } from "react-icons/lu";
 import unbImg from "@/public/UNB.png";
 import avroImg from "@/public/avro.png";
 import forexImg from "@/public/trading.png";
+import tecnoImg from "@/public/tecno.png";
 
 
 export const links = [
@@ -72,6 +73,14 @@ export const experiencesData = [
 
 export const projectsData = [
   {
+    title: "Detailed Comaparative Review Article",
+    description:
+      "It's a detailed review article that doesn't only describe different features of a phone in details but also compares it to other market dominators by key funtionalities.",
+    tags: ["Feature Article", "Gadget Review", "Tech", "Review Article"],
+    imageUrl: tecnoImg,
+    link: "https://unb.com.bd/category/Tech/tecno-phantom-v-fold-2-review-pros-cons-and-price-in-bangladesh/154984"
+  },
+  {
     title: "Featured Article on Tech Industry",
     description:
       "I write fetured articles covering Tech and Gaming topics for the prominent national daily the United News of Bangladesh (UNB).",
@@ -82,7 +91,7 @@ export const projectsData = [
   {
     title: "Featured Article on Gaming",
     description:
-      "I write fetured articles covering Tech and Gaming topics for the prominent national daily the United News of Bangladesh (UNB).",
+      "Writing articles on games demands writers to understand hypes and have abilities to engage gamers and enthusiasts.",
     tags: ["Feature Article", "Listing Article", "Tech", "Gaming"],
     imageUrl: unbImg,
     link: "https://unb.com.bd/category/Tech/february-2025-video-game-releases-top-titles-you-cant-miss/151328"

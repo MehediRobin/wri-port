@@ -90,14 +90,14 @@ function Intro() {
             duration: 0.7,
           }}
         >
-          <Link
+          <a
             href="mailto:robinicage@gmail.com"
             className="group bg-gray-900 text-white px-7 py-3 flex items-center gap-2 rounded-full outline-none
           focus:scale-110 hover:scale-110 hover:bg-gray-950 active:scale-105 transition scale-100 cursor-pointer"
           >
             Contact me here{" "}
             <BsArrowRight className="opacity-70 group-hover:translate-x-1 transition" />
-          </Link>
+          </a>
           <a
             href="/cv.pdf"
             className=" group bg-white px-7 py-3 flex items-center gap-2 rounded-full outline-none

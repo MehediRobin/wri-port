@@ -2,7 +2,6 @@
 import Image from "next/image";
 import Me from "@/public/me.jpg";
 import { motion } from "framer-motion";
-import Link from "next/link";
 import { BsArrowRight, BsLinkedin } from "react-icons/bs";
 import { HiDownload } from "react-icons/hi";
 import { SiUpwork } from "react-icons/si";

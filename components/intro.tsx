@@ -90,7 +90,8 @@ function Intro() {
           }}
         >
           <a
-            href="https://mail.google.com/mail/?view=cm&fs=1&to=robinicage@gmail.com&su=Content%20Writer&body=I%20am%20impressed.%20Let's%20talk%20business" target="_blank"
+            href="https://mail.google.com/mail/?view=cm&fs=1&to=robinicage@gmail.com&su=Content%20Writer&body=I%20am%20impressed.%20Let's%20talk%20business"
+            target="_blank"
             className="group bg-gray-900 text-white px-7 py-3 flex items-center gap-2 rounded-full outline-none
           focus:scale-110 hover:scale-110 hover:bg-gray-950 active:scale-105 transition scale-100 cursor-pointer"
           >
@@ -98,7 +99,7 @@ function Intro() {
             <BsArrowRight className="opacity-70 group-hover:translate-x-1 transition" />
           </a>
           <a
-            href="/cv.pdf"
+            href="/CV.pdf"
             className=" group bg-white px-7 py-3 flex items-center gap-2 rounded-full outline-none
           focus:scale-110 hover:scale-110 active:scale-105 transition scale-100 cursor-pointer"
             download="cv.pdf"
